@@ -1,0 +1,8 @@
+user_id,name,email,age,status
+1,Alice,ALICE@email.com,25,active
+2,Bob,bob@test.com,,inactive
+3,Charlie,charlie@domain.com,30,active
+1,Alice,ALICE@email.com,25,active
+4,David,david@web.com,17,active
+5,Eve,eve@mail.com,28,
+6,Frank,  FRANK@TEST.COM  ,45,active
